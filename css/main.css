@@ -3,20 +3,22 @@
 body {
      margin: 60px auto;
      width: 70%
+     color: dark grey;
+     font-size: 1.5em;
+     font-family: "calibri"
 }
 
-  
 
 h1 {
         color: dark green;
-        font-size: 3em;
+        font-size: 2em;
         font-family: "calibri";
 }
 
 
 p {
        color: dark grey;
-       font-size: 5em;
+       font-size: 1.5em;
        font-family: "calibri";
 }
 
